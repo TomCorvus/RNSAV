@@ -40,7 +40,6 @@ function App() {
         barStyle="dark-content"
         animated
         backgroundColor="transparent"
-        hidden
       />
       <NavigationContainer>
         <Stack.Navigator
